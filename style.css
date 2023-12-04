@@ -1,0 +1,134 @@
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body{
+      margin: 0;
+      padding: 0;
+    /* font-family: "Comic Sans MS", cursive, sans-serif; */
+  }
+  .title{
+    text-align: center;
+    color: #663d04;
+  }
+  .main {
+    height: 1050px;
+    width: 850px;
+    border: 2px solid black;
+    margin-left: 150px;
+    margin-bottom: 100px;
+  }
+  .fontname{
+    font-size: 50px;
+    color: #663d04;
+  }
+  .discription{
+    color: #663d04;
+  }
+  .firstdiv{
+    height: 100px;
+    width: 400px;
+    margin: 14px 0px 0px 14px;
+  }
+  .carrier{
+    height: 120px;
+    width: 400px;
+    margin: 10px 0px 0px 14px;
+  }
+  .citem{
+    color: #663d04;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .cparagraph{
+    margin: 10px 0px 0px 0px;
+  }
+  .education{
+    height: 150px;
+    width: 400px;
+    margin: 10px 0px 0px 14px;
+  }
+  .table{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 10px 0px 0px 0px;
+  }
+  .eitem{
+    color: #663d04;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .projects{
+    height: 300px;
+    width: 400px;
+    margin: 10px 0px 0px 14px;
+  }
+  .pitem{
+    color: #663d04;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .ptitle{
+    color:#663d04;
+    margin: 5px 0px 0px 0px;
+    font-size: 18px;
+    font-weight: 530;
+  }
+  .pdiscription{
+    padding: 2px;
+    letter-spacing:normal;
+  }
+  .information{
+    height: 158px;
+    width: 400px;
+    margin: -700px 10px 0px 440px;
+  }
+  .table2{
+    border-collapse: collapse;
+    padding: 3px;
+  }
+  .course{
+    height: 158px;
+    width: 400px;
+    margin: 10px 0px 0px 440px;
+  }
+  .coitem{
+    color: #663d04;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  
+  .language{
+    height: 158px;
+    width: 400px;
+    margin: 15px 0px 0px 440px;
+  }
+  .table3{
+    margin: 20px;
+    border-collapse: collapse;
+    padding: 3px;
+    color: black;
+    border: 1px solid black;
+    background-color:#a87d3b;
+    color: white;
+  }
+  .table3 :hover{
+    background-color:#663d04 ;
+  }
+  .skills{
+    height: 175px;
+    width: 400px;
+    margin: 15px 0px 0px 440px;
+  }
+  .skills2{
+    height: 140px;
+    width: 400px;
+    margin: 15px 0px 0px 440px;
+  }
+  .accomp{
+    height: 140px;
+    width: 400px;
+    margin: 15px 0px 0px 440px;
+  }
